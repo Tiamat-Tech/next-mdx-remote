@@ -8,6 +8,10 @@ A set of light utilities allowing MDX to be loaded within `getStaticProps` or `g
 
 -->
 
+## ⚠️ This project is archived and is no longer supported ⚠️
+
+
+
 [![next-mdx-remote](./header.png)](.)
 
 ---
